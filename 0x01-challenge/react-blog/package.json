@@ -1,5 +1,5 @@
 {
-  "name": "react-isomorphic-blog",
+  "name": "React-Isomorphic-Blog",
   "version": "1.0.0",
   "description": "React Isomorphic Blog",
   "author": "Jonathan Rossi <jonathan.m.rossi@gmail.com>",
@@ -47,8 +47,5 @@
   "main": "bin/www.js",
   "scripts": {
     "start": "node --use_strict bin/www.js"
-  },
-  "bin": {
-    "react-isomorphic-blog": "bin/www.js"
   }
 }
